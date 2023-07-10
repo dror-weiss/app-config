@@ -6,7 +6,6 @@ node_modules/
 !examples/**/.app-config.*
 
 # common build sites
-dist/
 dist-types/
 
 # build artifacts
